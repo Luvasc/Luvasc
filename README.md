@@ -14,14 +14,14 @@ Soy desarrollador de software y me gusta construir aplicaciones reales.
 
 Actualmente trabajo con:
 
-- C#
+- c#
+- Typescript
+- javascript
 - Angular
 - Node.js
 - Express
 - SQL
-- Arquitectura en capas
 
-También estoy empezando a aprender **Inteligencia Artificial**.
 
 ---
 
