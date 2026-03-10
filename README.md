@@ -60,19 +60,8 @@ API desarrollada con Node y Express.
 ### ⌚ Catálogo de relojes
 Proyecto web para mostrar productos y cerrar ventas por WhatsApp.
 
----
 
-## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Luvasc&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luvasc&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 
 -->
