@@ -1,10 +1,6 @@
 
-<h1 align="center">Hola 👋, soy Lucas</h1>
+<h1 align="center">Hola, soy Lucas</h1>
 <h3 align="center">Técnico Desarrollador de Software</h3>
-
-<p align="center">
-  💻 Backend | Angular | Node.js | C#
-</p>
 
 ---
 
