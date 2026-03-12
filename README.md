@@ -10,13 +10,18 @@ Soy desarrollador de software y me gusta construir aplicaciones reales.
 
 Actualmente trabajo con:
 
--   C#
-- Typescript
-- javascript
+
+## 🚀 Tecnologías
+
 - Angular
+- TypeScript
+- JavaScript
 - Node.js
 - Express
 - SQL
+- C#
+- HTML / CSS
+- Git / GitHub
 
 
 ---
